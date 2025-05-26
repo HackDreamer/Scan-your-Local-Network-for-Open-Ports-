@@ -1,4 +1,4 @@
-# Scan-your-Local-Network-for-Open-Ports-
+# Scan-your-Local-Network-for-Open-Ports
 🔍 Scan Your Local Network for Open Ports using Nmap (-sS TCP SYN Scan)
 
 This guide explains how to use Nmap’s TCP SYN scan (`-sS`) to scan your local network for open ports. TCP SYN scan is the default and most popular scan option in Nmap. It’s fast, stealthy, and effective.
